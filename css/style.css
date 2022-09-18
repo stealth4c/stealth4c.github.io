@@ -1,12 +1,10 @@
-@font-face { 
-    font-family: 'Roboto Mono';
-    src: url("https://fonts.googleapis.com/css2?family=Roboto+Mono");
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
 
 body {
     background-color: black;
 }
 
 h1 {
-    font-family: 'Roboto Mono', serif;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
 }
