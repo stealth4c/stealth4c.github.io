@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+body { background-color: black; margin: 0% }
+h1 { color: white; font-family: 'Roboto Mono', monospace; font-weight: 700 }
+p { color: white; font-family: 'Roboto Mono', monospace; font-weight: 200 }
+
+.topbar { text-align: center; height: 200px; background-color: #121212; padding: 60px; padding-top: 5px; padding-bottom: 5px }
+.topbar h1 { font-size: 64pt ; font-weight: 700; margin-top: 3px; margin-bottom: 5px }
+.topbar p { margin-top: 2px; margin-bottom: 2px }
+
+.socials { color: white; text-align: center; margin: 1cm }
+.socials a { color: white }
+.socials p { margin-top: 2px; margin-bottom: 2px}
+
+.projects { color: white; margin: 0.5cm; margin-top: 2cm}
+.projects h1 { font-weight: 200 }
