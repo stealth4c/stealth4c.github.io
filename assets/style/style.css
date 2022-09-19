@@ -19,6 +19,10 @@ a { color: white; }
 .projects h1 { font-weight: 200 }
 .projects h2 { font-weight: 200 }
 
-.block1 { margin: 0.5cm; margin-top: 0% }
-.block2 { margin: calc(33% + 0.5cm); margin-top: 0% }
-.block3 { margin: calc(67% + 0.5cm); margin-top: 0%}
+.floatContainer { padding: 10px; }
+
+.floatChild {
+    display: flex;
+    float: left;
+    padding: 5px;
+}
