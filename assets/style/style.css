@@ -18,11 +18,3 @@ a { color: white; }
 .projects { color: white; margin: 0.5cm; margin-top: 2cm}
 .projects h1 { font-weight: 200 }
 .projects h2 { font-weight: 200 }
-
-.floatContainer { padding: 10px; }
-
-.floatChild {
-    display: flex;
-    float: left;
-    padding: 5px;
-}
